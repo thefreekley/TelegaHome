@@ -1,0 +1,10 @@
+Comport setting
+
+menu:
+id: name
+Turn off, turn on
+
+add device:
+ id_user, id, name, input, output
+    input: alert sentence
+

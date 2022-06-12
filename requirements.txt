@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+db-sqlite3
+pyserial
+beautifulsoup4
+requests
+pandas
